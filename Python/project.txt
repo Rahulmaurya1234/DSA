@@ -1,0 +1,76 @@
+🗓️ DAY-WISE FINAL PLAN (PDF KE HISAB SE)
+🟢 DAY 1 – 9 Jan
+
+Repo check (PRIVATE)
+
+Dataset decide + add
+
+README heading
+
+🟢 DAY 2 – 10 Jan
+
+Data cleaning
+
+Feature selection (5–8 features)
+
+🟢 DAY 3 – 11 Jan
+
+Statistical anomaly detection
+(Z-score / threshold)
+
+🟢 DAY 4 – 12 Jan
+
+ML anomaly detection
+(Isolation Forest)
+
+🟢 DAY 5 – 13 Jan
+
+Alert scoring
+
+Risk level (Low / Medium / High)
+
+🟢 DAY 6 – 14 Jan
+
+False positive logic
+
+Threshold tuning
+
+🟢 DAY 7 – 15 Jan
+
+Dashboard (Streamlit)
+
+Alerts + graph
+
+🟢 DAY 8 – 16 Jan
+
+Integration
+
+End-to-end testing
+
+🟢 DAY 9 – 17 Jan
+
+Cleanup
+
+README complete
+
+🟢 DAY 10 – 18 Jan
+
+Final check
+
+Repo ready (PRIVATE)
+
+🚀 DAY 11 – 19 Jan
+
+GitHub connect
+
+Repo transfer to @ZethetaIntern
+
+✅ SUBMITTED
+
+❌ NAHI KARNA
+
+PDF / PPT upload ❌
+
+Public GitHub ❌
+
+Extra algorithms ❌
