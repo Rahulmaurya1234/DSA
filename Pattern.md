@@ -30,19 +30,19 @@
 
 ## Star Patterns
 
-* [ ] Square Pattern
-* [ ] Rectangle Pattern
-* [ ] Pyramid Pattern
-* [ ] Inverted Pyramid
-* [ ] Diamond Pattern
+* [ *] Square Pattern
+* [ *] Rectangle Pattern
+* [* ] Pyramid Pattern
+* [ *] Inverted Pyramid
+* [ *] Diamond Pattern
 * [ ] Hollow Square
 * [ ] Hollow Pyramid
 
 ## Number Patterns
 
-* [ ] Increasing Triangle
-* [ ] Decreasing Triangle
-* [ ] Floyd's Triangle
+* [ *] Increasing Triangle
+* [ *] Decreasing Triangle
+* [* ] Floyd's Triangle
 * [ ] Pascal Triangle
 
 ### Goal
