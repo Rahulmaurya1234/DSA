@@ -16,10 +16,10 @@
 
 ## Basic Math & Logic
 
-* [ ] LC 9 - Palindrome Number
-* [ ] LC 7 - Reverse Integer
-* [ ] LC 69 - Sqrt(x)
-* [ ] LC 231 - Power of Two
+* [ *] LC 9 - Palindrome Number
+* [ *] LC 7 - Reverse Integer
+* [ *] LC 69 - Sqrt(x)
+* [ *] LC 231 - Power of Two
 
 ### Additional
 
